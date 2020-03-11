@@ -2,7 +2,7 @@
 Snake game created with JavaScript and canvas. 
 
 # Objectives
-Learn the JavaScript language and concepts about software architecture, separation of concerns for example
+Learn the JavaScript language and concepts about software architecture (separation of concerns, for example)
 
 # Code structure
 The code is divided into 3 fragments: game.js, renderer.js and keyboardListener.js.
