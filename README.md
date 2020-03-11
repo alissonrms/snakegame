@@ -19,6 +19,8 @@ You will need an http server to run the game on localhost, because modular progr
 If you try to run on google chrome without the http server, you will encounter the following error: "Access to script at 'file: /// E: /Documents/SnakeGame/game.js' from origin 'null' has been blocked by CORS policy".
 
 An easy solution, if you have node.js installed, run the following commands at the command prompt (Windows):
+
   $ npm install http-server -g
+  
   $ http-server game_directory (Ex: $ http-server E:\Documents\SnakeGame)
 
