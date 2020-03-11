@@ -23,4 +23,7 @@ An easy solution, if you have node.js installed, run the following commands at t
   $ npm install http-server -g
   
   $ http-server game_directory (Ex: $ http-server E:\Documents\SnakeGame)
+  
+
+The bootstrap framework was used for some simple styling, so you need internet access for the real game experience
 
