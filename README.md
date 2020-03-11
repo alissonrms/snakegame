@@ -9,7 +9,9 @@ The code is divided into 3 fragments: game.js, renderer.js and keyboardListener.
 Each JavaScript code represents a development layer and its respective responsibilities.
 
 Game layer: Save the game state and business rules
+
 Renderer layer: Render the game state
+
 Keyboard Listener layer: Listen to all keyboard inputs
 
 To achieve a completely decoupled code, the Observer design pattern and modular JavaScript programming were used.
